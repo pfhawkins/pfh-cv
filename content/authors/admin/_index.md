@@ -56,4 +56,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a man on the internet.
+Patrick Hawkins is a man on the internet.
