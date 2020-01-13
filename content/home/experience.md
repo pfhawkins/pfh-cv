@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Michigan"
   date_start = "2018-01-01"
   date_end = ""
-  description = "More Marketing Than You Can Shake A Stick At"
+  description = """
   Responsibilities include:
   
   * Everything
